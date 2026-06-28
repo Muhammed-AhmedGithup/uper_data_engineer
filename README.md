@@ -172,7 +172,3 @@ The `.pbix` file (`uper_data_engineer.pbix`) connects to the exported CSV files 
 [GitHub](https://github.com/Muhammed-AhmedGithup) · [LinkedIn](https://www.hackerrank.com/profile/ma1927393)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
